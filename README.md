@@ -5,10 +5,11 @@
 - 📫 How to reach me swapnil.shinde@trackk.in
 - 😄 Pronouns: He/Him
 
+<br/>
 
-Tech Stack:
+<b>Tech Stack:</b>
 - Languages: Python 🐍 | JavaScript (Node.js) 🚀 | PHP
-- Backend Frameworks: Flask, Express.js, Typescript
+- Backend Frameworks: Flask, Express.js, Typescript, Laravel
 - Databases: MongoDB, MySQL
 - DevOps & Cloud: Docker, AWS
 - Tools: Git, Postman, WebSockets
